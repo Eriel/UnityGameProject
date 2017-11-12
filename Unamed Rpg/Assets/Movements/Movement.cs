@@ -25,7 +25,7 @@ public class Movement : MonoBehaviour {
 
                 if (Physics.Raycast(ray, out hit, 100, movementMask))
             {
-                Debug.Log("Point: " + hit.collider.name + " " + hit.point);
+                
                 movePlayer.MoveToPoint(hit.point);
             }
         }
