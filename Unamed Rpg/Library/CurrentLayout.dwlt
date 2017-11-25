@@ -455,14 +455,14 @@ MonoBehaviour:
     width: 1065
     height: 353
   m_SceneLighting: 1
-  lastFramingTime: 74.31925463531813
+  lastFramingTime: 1768.696804745305
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.24, y: 5.02, z: -10.42}
+    m_Target: {x: 9.014044, y: 0.75915146, z: 8.676931}
     speed: 2
-    m_Value: {x: -1.24, y: 5.02, z: -10.42}
+    m_Value: {x: 9.014044, y: 0.75915146, z: 8.676931}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -485,13 +485,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.20183918, y: 0.143964, z: -0.030008364, w: -0.9683155}
+    m_Target: {x: -0.2943903, y: 0.3084812, z: -0.10103126, w: -0.8988695}
     speed: 2
-    m_Value: {x: -0.20183918, y: 0.143964, z: -0.030008364, w: -0.9683155}
+    m_Value: {x: -0.2943903, y: 0.3084812, z: -0.10103126, w: -0.8988695}
   m_Size:
-    m_Target: 22
+    m_Target: 38.98832
     speed: 2
-    m_Value: 22
+    m_Value: 38.98832
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -530,23 +530,23 @@ MonoBehaviour:
     height: 250
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: 34270000
+    m_LastClickedID: 10036
     m_ExpandedIDs: e0fbffff00000000da270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Main Camera
+      m_OriginalName: Main Camera
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10008
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Movements
+    - Assets/Materials
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -603,7 +603,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: 00000000ce240000
+    m_ExpandedIDs: 00000000ce24000066250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,7 +631,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ce24000066250000
+    m_ExpandedIDs: 00000000ce240000fa24000066250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
